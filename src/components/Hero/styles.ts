@@ -1,9 +1,10 @@
+/* eslint-disable quotes */
 export const styles = {
 	heroDiv: {
 		display: 'flex',
 		alignments: 'flex-col justify-center items-center',
 		sizes: 'h-[414px]',
-		background: 'bg-[url(\'/assets/img/wallpaper.jpeg\')] bg-cover bg-no-repeat',
+		background: "bg-[url('/assets/img/wallpaper.jpeg')] bg-cover bg-no-repeat",
 		breakpoints: 'md:h-[378px]',
 		before: 'before:bg-dark-10 before:w-full before:h-full before:opacity-60'
 	},
