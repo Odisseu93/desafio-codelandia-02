@@ -18,7 +18,7 @@ const ProductList = () => (
 						.toString()
 				}
 			>
-				<img className='w-[250px]' src={src} alt={'Jordan shoe ' + index} />
+				<img className='w-[250px] hover:opacity-90' src={src} alt={'Jordan shoe ' + index} />
 			</li>
 		))}
 	</ul>
