@@ -50,14 +50,14 @@ para rodar o projeto, siga os passo abaixo:
 **Autor: [Iuri Silva](https://www.instagram.com/iuricode/)**
 
 ## Live site
-**[🔗️]()**
+**[🔗️](https://desafio-codelandia-02.vercel.app/)**
 
 ## Screenshots
 
 <details>
 <summary>
 <b>click aqui para abrir</b>
-</summaty>
+</summary>
 
 ![](preview/desktop_1.png)
 ![](preview/desktop_2.png)
